@@ -1,0 +1,145 @@
+{
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.3.5",
+    "data": {
+        "text": "ReactDOM.js"
+    },
+    "children": [
+        {
+            "data": {
+                "text": "ReactElement.js"
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "ReactContext.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "emptyObject.js"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "ReactCurrentOwner.js"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "text": "ReactElementValidator.js"
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "ReactElement.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "ReactContext.js"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "emptyObject.js"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "ReactCurrentOwner.js"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "ReactFragment.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "ReactElement.js"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "ReactContext.js"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "emptyObject.js"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "ReactCurrentOwner.js"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "ReactPropTypeLocations.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "keyMirror.js"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "ReactPropTypeLocationNames.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "ReactCurrentOwner.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "ReactNativeComponent.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "getIteratorFn.js"
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "data": {
+                "text": "mapObject.js"
+            },
+            "children": []
+        }
+    ]
+}

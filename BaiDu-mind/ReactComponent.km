@@ -1,0 +1,228 @@
+{
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.3.5",
+    "data": {
+        "text": "ReactComponent.js"
+    },
+    "children": [
+        {
+            "data": {
+                "text": "ReactUpdateQueue.js"
+            },
+            "children": [
+                {
+                    "data": {
+                        "text": "ReactLifeCycle.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "ReactCurrentOwner.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "ReactElement.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "ReactContext.js"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "emptyObject.js"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "ReactCurrentOwner.js"
+                            },
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "text": "ReactInstanceMap.js"
+                    },
+                    "children": []
+                },
+                {
+                    "data": {
+                        "text": "ReactUpdates.js"
+                    },
+                    "children": [
+                        {
+                            "data": {
+                                "text": "CallbackQueue.js"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "PooledClass.js"
+                                    },
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "PooledClass.js"
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "ReactCurrentOwner.js"
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "ReactPerf.js"
+                            },
+                            "children": []
+                        },
+                        {
+                            "data": {
+                                "text": "ReactReconciler.js"
+                            },
+                            "children": [
+                                {
+                                    "data": {
+                                        "text": "ReactRef.js"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "ReactOwner.js"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "data": {
+                                        "text": "ReactElementValidator.js"
+                                    },
+                                    "children": [
+                                        {
+                                            "data": {
+                                                "text": "ReactElement.js"
+                                            },
+                                            "children": [
+                                                {
+                                                    "data": {
+                                                        "text": "ReactContext.js"
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "data": {
+                                                                "text": "emptyObject.js"
+                                                            },
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "data": {
+                                                        "text": "ReactCurrentOwner.js"
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "ReactFragment.js"
+                                            },
+                                            "children": [
+                                                {
+                                                    "data": {
+                                                        "text": "ReactElement.js"
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "data": {
+                                                                "text": "ReactContext.js"
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "data": {
+                                                                        "text": "emptyObject.js"
+                                                                    },
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "data": {
+                                                                "text": "ReactCurrentOwner.js"
+                                                            },
+                                                            "children": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "ReactPropTypeLocations.js"
+                                            },
+                                            "children": [
+                                                {
+                                                    "data": {
+                                                        "text": "keyMirror.js"
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "ReactPropTypeLocationNames.js"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "ReactCurrentOwner.js"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "ReactNativeComponent.js"
+                                            },
+                                            "children": []
+                                        },
+                                        {
+                                            "data": {
+                                                "text": "getIteratorFn.js"
+                                            },
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "data": {
+                                "text": "Transaction.js"
+                            },
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
