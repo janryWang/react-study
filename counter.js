@@ -2,6 +2,7 @@
  * 数据统计脚本
  */
 var fs = require("fs");
+var path = require('path');
 var _ = require('underscore');
 var bufferData = fs.readFileSync('./BaiDu-mind/React.km');
 var data = bufferData.toString('ascii', 0, bufferData.length);
@@ -74,7 +75,7 @@ function printer(title,tree,sort,sortBy,filter){
 		str += "\n\n";
 		str += "模块的子树深度:"+item.deep+"\n\n\n\n\n\n";
 	});
-	fs.writeFileSync(title.replace(".md","")+".md",str);
+	fs.writeFileSync(path.resolve("./Statistics",title.replace(".md","")+".md"),str);
 }
 
 printer("模块统计--按模块被使用的次数排序",tree);
