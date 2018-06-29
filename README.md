@@ -1,4 +1,7 @@
 #React.js源码分析
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/janryWang/react-study.svg)](https://greenkeeper.io/)
+
 ====
 为什么要分析React.js的源码？
 
